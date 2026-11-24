@@ -27,8 +27,8 @@ A zero-dependency, single-file browser workbench for planning homologous DNA ass
 
 ## Quick Start
 
-1. **Hosted (Recommended):** Open **https://zhuojin05.github.io/dna-assembly-calculator/** directly in your browser.
-2. **Offline / Local:** Download or clone this repository and double-click `index.html` in any modern browser (Chrome, Edge, Safari, Firefox).
+1. **Offline / Local:** Download or clone this repository and double-click `index.html` in any modern browser (Chrome, Edge, Safari, Firefox).
+2. **GitHub Pages:** Enable GitHub Pages from the repository root (`index.html`), and open the published URL.
 3. Click **`⚡ Load Demo`** in the empty workspace to inspect a 3-construct sample workflow (`EGFP`, `mCherry`, and `pET-28a(+)`), or drop your own `.dna` and NanoDrop files directly.
 
 ## License
